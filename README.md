@@ -83,3 +83,4 @@ Distributed under the WTFPL License. See `http://www.wtfpl.net` for more informa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
+![alt text](https://media.discordapp.net/attachments/1048415264468897862/1049595412811632670/killfeedv1.jpg)
