@@ -1,0 +1,122 @@
+WrapSpacerWidgetClass MurderInfoWrap {
+ clipchildren 1
+ color 1 1 1 0
+ size 1500 34
+ halign right_ref
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ style Colorable
+ Padding 0
+ Margin 0
+ "Size To Content H" 1
+ content_halign right
+ {
+  GridSpacerWidgetClass Background {
+   clipchildren 1
+   color 0 0 0 0.3922
+   size 1500 30
+   halign right_ref
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   style DayZDefaultPanel
+   Padding 0
+   Margin 0
+   "Size To Content H" 1
+   "Size To Content V" 1
+   content_halign right
+   Columns 6
+   Rows 1
+   {
+    FrameWidgetClass padding1 {
+     ignorepointer 1
+     position 10 10
+     size 15 30
+     hexactpos 1
+     vexactpos 1
+     hexactsize 1
+     vexactsize 1
+    }
+    TextWidgetClass MurderName {
+     ignorepointer 1
+     color 0.2353 0.6235 0.3333 1
+     size 0.966 34
+     halign right_ref
+     hexactpos 1
+     vexactpos 1
+     hexactsize 0
+     vexactsize 1
+     userID 799
+     "exact text" 0
+     text_proportion 0.8
+     "size to text h" 1
+     "size to text v" 0
+     "text halign" center
+     "text valign" center
+    }
+    PanelWidgetClass WeaponWrap {
+     ignorepointer 1
+     position 0 0
+     size 100 30
+     hexactpos 1
+     vexactpos 1
+     hexactsize 1
+     vexactsize 1
+     {
+      ItemPreviewWidgetClass MurderWeapon {
+       ignorepointer 1
+       position 10 6
+       size 100 27
+       hexactpos 1
+       vexactpos 1
+       hexactsize 1
+       vexactsize 1
+       userID 798
+      }
+     }
+    }
+    TextWidgetClass KillDst {
+     ignorepointer 1
+     position 0 0
+     size 85 30
+     hexactpos 0
+     vexactpos 0
+     hexactsize 1
+     vexactsize 1
+     userID 797
+     text_proportion 0.6
+     "text halign" center
+     "text valign" center
+    }
+    TextWidgetClass TargetName {
+     ignorepointer 1
+     color 0.6235 0.2353 0.2353 1
+     size 446 34
+     hexactpos 1
+     vexactpos 1
+     hexactsize 1
+     vexactsize 1
+     userID 796
+     "exact text" 0
+     text_proportion 0.8
+     "size to text h" 1
+     "size to text v" 0
+     "text halign" center
+     "text valign" center
+    }
+    FrameWidgetClass padding0 {
+     ignorepointer 1
+     position 10 10
+     size 15 1
+     hexactpos 1
+     vexactpos 1
+     hexactsize 1
+     vexactsize 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,44 @@
+WrapSpacerWidgetClass MurderInfoWrap {
+ position 10 10
+ size 1 30
+ hexactpos 1
+ vexactpos 1
+ hexactsize 0
+ vexactsize 1
+ Padding 5
+ Margin 0
+ content_halign right
+ {
+  TextWidgetClass DeathMsg {
+   ignorepointer 1
+   size 0.36 0.97
+   hexactpos 1
+   vexactpos 1
+   hexactsize 0
+   vexactsize 0
+   userID 796
+   "exact text" 0
+   text_proportion 0.8
+   "size to text h" 1
+   "size to text v" 0
+   "text halign" center
+   "text valign" center
+  }
+  TextWidgetClass TargetName {
+   ignorepointer 1
+   color 0.6235 0.2353 0.2353 1
+   size 0.36 0.98
+   hexactpos 1
+   vexactpos 1
+   hexactsize 0
+   vexactsize 0
+   userID 796
+   "exact text" 0
+   text_proportion 0.8
+   "size to text h" 1
+   "size to text v" 0
+   "text halign" center
+   "text valign" center
+  }
+ }
+}
