@@ -30,9 +30,7 @@
 
 
 
-A mod for the game DayZ https://www.bohemia.net/games/dayz
-
-I created a mod for my server, NULLED, in 2020. It has since become the most popular graphical killfeed in DayZ. The mod, has a new version 2 that is available to the public, and version 1 is now open source for all users."
+A mod designed for DayZ, tailored for the server named "NULLED" in 2020, has gradually gained significant popularity and is now widely acknowledged as the most utilized graphical killfeed in the DayZ community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
