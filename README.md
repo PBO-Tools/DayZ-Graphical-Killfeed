@@ -1,81 +1,14 @@
-<h3 align="center">DayZ Graphical Killfeed "Nulled Killfeed"</h3>
+<p align="center">
+    <img src="https://pbo.tools/assets/images/logo.png" width="512">
+</p>
 
 
+## About this project
+* A DayZ mod specifically crafted for the "NULLED" server in 2020 has steadily gained considerable popularity, becoming widely recognized as the most commonly used graphical killfeed in the DayZ community.
 
 
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-
-
-
-## About The Project
-
-
-
-A mod designed for DayZ, tailored for the server named "NULLED" in 2020, has gradually gained significant popularity and is now widely acknowledged as the most utilized graphical killfeed in the DayZ community.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-<!-- LICENSE -->
-
-
-
+## Discover our Software
+* Discover our PBO obfuscator at https://pbo.tools
+  
 ## License
-
-
-
-
-
-
-
-Distributed under the WTFPL License. See `http://www.wtfpl.net` for more information.
-
-
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-![alt text](https://media.discordapp.net/attachments/1048415264468897862/1049595412811632670/killfeedv1.jpg)
+* This software is distributed under GNU General Public License v3.0.
